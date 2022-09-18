@@ -1,0 +1,34 @@
+Link Figma Keseluruhan :
+https://www.figma.com/file/3XQuJhNdxdXOKWt6kYdLJu/App-PT.-XYZ?node-id=0%3A1
+
+Step by step Flow 1 (Pinjaman Berhasil/Success):
+1. Klik splashscreeen dimana saja
+2. Halaman login muncul, jika user ingin sudah memiliki password
+dapat melakukan login, jika belum dapat Klik register
+3. Diarahkan ke halaman register, lalu klik button register. 
+4. Setelah klik register, akan mengarahkan ke halaman login, lalu klik
+button login
+5. Halaman dashboard muncul, dapat melihat menu tagihan dan riwayat
+transaksi
+6. Pada halaman dashboard, jika user ingin meminjam dapat klik button
+Segera Pinjam akan mengarahkan ke halaman pengisian data diri
+7. Klik button lanjutkan sampai klik button submit
+8. Lalu akan muncul halaman sedang verifikasi, klik dimana saja
+9. Page akan berlanjut pada notifikasi email, dan klik dimana saja
+page akan berlanjut pada notifikasi nomor telepon
+
+Step by step Flow 2 (Pinjaman Gagal):
+1. Klik splashscreeen dimana saja
+2. Halaman login muncul, jika user ingin sudah memiliki password
+dapat melakukan login, jika belum dapat Klik register
+3. Diarahkan ke halaman register, lalu klik button register. 
+4. Setelah klik register, akan mengarahkan ke halaman login, lalu klik
+button login
+5. Halaman dashboard muncul, dapat melihat menu tagihan dan riwayat
+transaksi
+6. Pada halaman dashboard, jika user ingin meminjam dapat klik button
+Segera Pinjam akan mengarahkan ke halaman pengisian data diri
+7. Klik button lanjutkan sampai klik button submit
+8. Lalu akan muncul halaman sedang verifikasi, klik dimana saja
+9. Page akan berlanjut pada notifikasi gagal pada dashboard bahwa user
+tidak dapat meminjam karena adanya proses tagihan yang belum dibayarkan
